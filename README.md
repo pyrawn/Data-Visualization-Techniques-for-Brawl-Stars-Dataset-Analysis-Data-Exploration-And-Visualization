@@ -1,6 +1,7 @@
 # Data Visualization Techniques for Brawl Stars Dataset Analysis: Data Exploration and Visualization
 
-This project explores and visualizes Brawl Stars data through a set of visual analysis techniques. The generated graphs help to understand patterns, trends, and key relationships in player and club performance, providing valuable insights for data analysis in gaming.
+This project explores and visualizes Brawl Stars data through a set of visual analysis techniques. The generated graphs help to understand patterns, trends, and key relationships in player and club performance, providing valuable insights for data analysis in gaming. This is the simple report of the project, to check the detailed report of the project you could go to the directory `reports/` and check it there, or [click here]([https://www.ejemplo.com/reporte](https://github.com/pyrawn/Data-Visualization-Techniques-for-Brawl-Stars-Dataset-Analysis-Data-Exploration-And-Visualization/blob/80f1101c7deddf2670981c6c7590f8af18beb285/reports/Technical-Report.pdf))
+
 
 ---
 
